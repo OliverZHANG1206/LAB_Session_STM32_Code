@@ -1,0 +1,9 @@
+main.c:70:6:speed_calculation	16	static
+main.c:76:6:LCD_Print	32	static
+main.c:103:6:LCD_Config	8	static
+main.c:114:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:135:6:HAL_GPIO_EXTI_Callback	16	static
+main.c:189:5:main	88	static
+main.c:266:6:SystemClock_Config	96	static
+main.c:313:6:PeriphCommonClock_Config	152	static
+main.c:343:6:Error_Handler	4	static,ignoring_inline_asm
